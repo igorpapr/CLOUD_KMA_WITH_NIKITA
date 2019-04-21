@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("Hello world from IHOR"); System.out.println("Hello world from NEIHOR?????????AJIDSAHUDAOIDOISA");
-
+	    System.out.println("Conflict solved, everything is OK");
     }
 }
